@@ -35,6 +35,5 @@
       "user_email": "mario@netninja.dev",
       "id": "QMSMtyK4QeA"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
